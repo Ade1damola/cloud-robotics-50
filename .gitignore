@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.env
+
+# Arduino
+*.hex
+*.elf
+
+# Logs & Data
+*.log
+*.csv
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Credentials
+credentials.json
+secrets/
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
